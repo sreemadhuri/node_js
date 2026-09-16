@@ -1,0 +1,28 @@
+h1{
+            text-align: center;
+            background-color: rgb(212, 96, 185);
+            color: rgb(164, 101, 101);
+        }
+        form {
+            width:400px;
+            margin:auto;
+            padding: 20px;
+            background-color:antiquewhite;
+            borger: 2px;
+        }
+
+        label{
+            font-weight:bold;
+        }
+        input[type="text"]
+        input[type="password"]
+        {
+            width: 95px;
+            padding:8px;
+            border:1px solid gray;
+        }
+        input[type="submit"]
+        {
+            backgr
+        }
+

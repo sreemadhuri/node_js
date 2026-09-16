@@ -1,0 +1,44 @@
+
+ h1{
+            text-align: center;
+            background-color: rgb(90, 101, 149);
+            color: rgb(4, 0, 0);
+        }
+        form {
+            width:400px;
+            margin:auto;
+            padding: 20px;
+            background-color:rgb(172, 183, 222);
+            border:2px solid black;
+        }
+
+        label{
+            font-weight:bold;
+        }
+        input[type="text"]
+        input[type="password"]
+        {
+            width: 95px;
+            padding:8px;
+            border:1px solid gray;
+        }
+        input[type="submit"]
+        {
+            background-color: aqua;
+        }
+        input[type="reset"]
+        {
+            background-color: aqua;
+            padding: 8px 15px;
+            
+
+        }
+        a{
+            text-decoration:none;
+            color:rgb(186, 66, 94)
+        }
+        a:hover
+        {
+            text-decoration: underline;
+        }
+        
